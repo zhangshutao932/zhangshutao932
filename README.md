@@ -1,16 +1,51 @@
-## Hi there 👋
+# Your Name's Portfolio
 
-<!--
-**zhangshutao932/zhangshutao932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my data portfolio! Here, I showcase my projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Table of Contents
+- SQL Projects
+- Python Projects
+- Excel Projects
+- Tableau Projects
+
+---
+
+## 📈 SQL Projects
+
+| Project | Tools | Description |
+|--------|------|------------|
+| Sales Analysis | SQL | Analyzed revenue trends and top products |
+
+---
+
+## 🐍 Python Projects
+
+| Project | Tools | Description |
+|--------|------|------------|
+| Sentiment Analysis | Python | NLP analysis of customer reviews |
+
+---
+
+## 📊 Excel Projects
+
+| Project | Tools | Description |
+|--------|------|------------|
+| Sales Dashboard | Excel | Built KPI dashboard with slicers |
+
+---
+
+## 📊 Tableau Projects
+
+| Project | Tools | Description |
+|--------|------|------------|
+| Marketing Dashboard | Tableau | Visualized campaign performance |
+
+---
+
+## 🧠 Skills
+- SQL
+- Python
+- Excel
+- Tableau
