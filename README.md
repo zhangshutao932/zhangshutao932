@@ -32,7 +32,7 @@ Welcome to my data portfolio! Here, I showcase my projects.
 
 | Project | Tools | Description |
 |--------|------|------------|
-| Sales Dashboard | Excel | Built KPI dashboard with slicers |
+| NYC Collisions (https://github.com/zhangshutao932/NYC-Traffic-Accidents-In-Excel) | Excel | Built visualizations using pivot tables |
 
 ---
 
