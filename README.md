@@ -24,7 +24,7 @@ Welcome to my data portfolio! Here, I showcase my projects.
 
 | Project | Tools | Description |
 |--------|------|------------|
-| Sentiment Analysis | Python | NLP analysis of customer reviews |
+| Reddit Comments Analysis (https://github.com/zhangshutao932/reddit-annotation-modeling) | Python | Classification of Reddit comments using TF-IDF and logistic regression |
 
 ---
 
